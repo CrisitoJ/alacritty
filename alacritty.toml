@@ -1,0 +1,48 @@
+[[colors.indexed_colors]]
+color = "0xff966c"
+index = 16
+
+[[colors.indexed_colors]]
+color = "0xc53b53"
+index = 17
+
+[colors.bright]
+black = "#3d4052"
+blue = "#7f8fae"
+cyan = "#b7a2c7"
+green = "#a2ce9d"
+magenta = "#cfb0e9"
+red = "#ff9c9f"
+white = "#a9b9d4"
+yellow = "#ffd79e"
+
+
+[colors.normal]
+black = "#0e0d11"
+blue = "#515bc2"
+cyan = "#c251bd"
+green = "#51c278"
+magenta = "#bd069a"
+red = "#c25551"
+white = "#e4e4ea"
+yellow = "#bec251"
+
+[colors.primary]
+background = "#0e0d11"
+foreground = "#aeadbf"
+
+[font]
+size = 9.5
+
+[font.normal]
+family = "Hurmit Nerd Font"
+
+[window]
+opacity = 1.0
+
+[cursor]
+style = { shape="Beam",blinking="On" }
+
+[window.padding]
+x = 10
+y = 5
